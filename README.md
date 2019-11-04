@@ -1,6 +1,6 @@
 # Magnitt Test
 
-Technical exercise for Magnitt: Chat webapp (Note: Demo Mock API will be quite slow.)
+Technical exercise for Magnitt: Chat webapp **(Note: Demo Mock API will be quite slow.)**
 - [Wireframe/Design](https://www.figma.com/file/hAAf6MDiF5TjoXBsT7ejIT/Magnitt-Test-ChatApp-Wireframing?node-id=0%3A1)
 - [Demo](https://magnitt-test.mevan.now.sh/)
 
