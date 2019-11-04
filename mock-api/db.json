@@ -1,0 +1,382 @@
+{
+  "users":[
+    {
+      "id": 1,
+      "first_name": "Mevan",
+      "last_name": "Abeydeera",
+      "email": "mevan_ab@hotmail.com",
+      "icon_color": "#c29e77",
+      "status": true,
+      "last_online": "2019-05-18T04:54:51Z",
+      "user_organizations": [3,5,1],
+      "organization_threads": [
+        {
+          "thread_type": "organization",
+          "thread_id": "b22976910f3f4083b4e16c8625baad58",
+          "organization_id": 4
+        },
+        {
+          "thread_type": "organization",
+          "thread_id": "387d9fb27055441b8444127f5f7bf8c6",
+          "organization_id": 3
+        },
+        {
+          "thread_type": "organization",
+          "thread_id": "a2a90592c43d41cc9f1a1c8ee6a59bbb",
+          "organization_id": 8
+        }
+      ],
+      "personal_threads": [
+          {
+            "thread_type": "personal",
+            "thread_id": "c93df4b39c6240f5bce78c12b8ac4c9f",
+            "receiver_id": 2
+          },
+          {
+            "thread_type": "personal",
+            "thread_id": "893529d091c4496f973f63206f5b37fa",
+            "receiver_id": 6
+          }
+      ]
+    },
+    {
+        "id": 2,
+        "first_name": "Kennett",
+        "last_name": "Weston",
+        "email": "kweston1@so-net.ne.jp",
+        "icon_color": "#e861a8",
+        "status": false,
+        "last_online": "2019-03-31T14:34:04Z"
+    },
+    {
+        "id": 3,
+        "first_name": "Arluene",
+        "last_name": "Paxforde",
+        "email": "apaxforde2@squarespace.com",
+        "icon_color": "#9d0985",
+        "status": true,
+        "last_online": "2019-08-30T03:37:59Z"
+    },
+    {
+        "id": 4,
+        "first_name": "Aleen",
+        "last_name": "Augustus",
+        "email": "aaugustus3@soundcloud.com",
+        "icon_color": "#b0bbbf",
+        "status": false,
+        "last_online": "2019-09-08T09:49:58Z"
+    },
+    {
+        "id": 5,
+        "first_name": "Toni",
+        "last_name": "Furneaux",
+        "email": "tfurneaux4@noaa.gov",
+        "icon_color": "#95c005",
+        "status": true,
+        "last_online": "2019-06-26T20:47:41Z"
+    },
+    {
+        "id": 6,
+        "first_name": "Benedicta",
+        "last_name": "Fullun",
+        "email": "bfullun5@typepad.com",
+        "icon_color": "#f83d21",
+        "status": true,
+        "last_online": "2019-07-13T08:48:37Z"
+    },
+    {
+        "id": 7,
+        "first_name": "Cob",
+        "last_name": "Mouat",
+        "email": "cmouat6@mlb.com",
+        "icon_color": "#dccf33",
+        "status": false,
+        "last_online": "2018-11-23T07:21:29Z"
+    },
+    {
+        "id": 8,
+        "first_name": "Hermine",
+        "last_name": "Francescotti",
+        "email": "hfrancescotti7@slashdot.org",
+        "icon_color": "#10bcc7",
+        "status": true,
+        "last_online": "2019-09-02T22:51:40Z"
+    },
+    {
+        "id": 9,
+        "first_name": "Carter",
+        "last_name": "Lewsy",
+        "email": "clewsy8@illinois.edu",
+        "icon_color": "#6f18a2",
+        "status": true,
+        "last_online": "2019-10-15T19:25:36Z"
+    },
+    {
+        "id": 10,
+        "first_name": "Brendon",
+        "last_name": "Lewry",
+        "email": "blewry9@instagram.com",
+        "icon_color": "#a84127",
+        "status": true,
+        "last_online": "2019-01-21T03:49:52Z"
+    },
+    {
+        "id": 11,
+        "first_name": "Kaitlynn",
+        "last_name": "D'Alwis",
+        "email": "kdalwisa@google.de",
+        "icon_color": "#5fef1f",
+        "status": true,
+        "last_online": "2019-10-26T02:53:59Z"
+    },
+    {
+        "id": 12,
+        "first_name": "Bruce",
+        "last_name": "Lambird",
+        "email": "blambirdb@altervista.org",
+        "icon_color": "#9b8f35",
+        "status": false,
+        "last_online": "2019-01-09T17:46:10Z"
+    },
+    {
+        "id": 13,
+        "first_name": "Curr",
+        "last_name": "Mcwhinnie",
+        "email": "cmcwhinniec@ucoz.ru",
+        "icon_color": "#fa90ce",
+        "status": true,
+        "last_online": "2019-09-21T20:08:18Z"
+    },
+    {
+        "id": 14,
+        "first_name": "Odetta",
+        "last_name": "Wordington",
+        "email": "owordingtond@feedburner.com",
+        "icon_color": "#20510e",
+        "status": true,
+        "last_online": "2019-09-18T03:03:40Z"
+    },
+    {
+        "id": 15,
+        "first_name": "Daniele",
+        "last_name": "Neeves",
+        "email": "dneevese@mail.ru",
+        "icon_color": "#74e8df",
+        "status": false,
+        "last_online": "2019-09-03T19:29:24Z"
+    },
+    {
+        "id": 16,
+        "first_name": "Corrina",
+        "last_name": "Maasze",
+        "email": "cmaaszef@mediafire.com",
+        "icon_color": "#cb7c23",
+        "status": false,
+        "last_online": "2018-11-18T04:04:45Z"
+    },
+    {
+        "id": 17,
+        "first_name": "Thea",
+        "last_name": "Petrushkevich",
+        "email": "tpetrushkevichg@icq.com",
+        "icon_color": "#1fe562",
+        "status": true,
+        "last_online": "2019-04-02T19:47:29Z"
+    },
+    {
+        "id": 18,
+        "first_name": "Clemence",
+        "last_name": "Clynter",
+        "email": "cclynterh@icq.com",
+        "icon_color": "#13c203",
+        "status": true,
+        "last_online": "2019-07-09T17:18:10Z"
+    },
+    {
+        "id": 19,
+        "first_name": "Cass",
+        "last_name": "Rodenburg",
+        "email": "crodenburgi@ameblo.jp",
+        "icon_color": "#2b88f8",
+        "status": false,
+        "last_online": "2019-03-25T10:07:46Z"
+    },
+    {
+        "id": 20,
+        "first_name": "Humfrey",
+        "last_name": "McKendo",
+        "email": "hmckendoj@ning.com",
+        "icon_color": "#edf8e1",
+        "status": false,
+        "last_online": "2018-12-21T16:45:08Z"
+    }
+  ],
+  "organizations":[
+    {"id":1,"organization_name":"Gutmann Group","icon_color":"#078d6e"},
+    {"id":2,"organization_name":"Turcotte Inc","icon_color":"#24e5f5"},
+    {"id":3,"organization_name":"Bosco and Sons","icon_color":"#dcca3f"},
+    {"id":4,"organization_name":"Macejkovic LLC","icon_color":"#26b2fb"},
+    {"id":5,"organization_name":"Ratke and Kreiger","icon_color":"#b78f54"},
+    {"id":6,"organization_name":"Gleason, Lynch and Walter","icon_color":"#f32e4d"},
+    {"id":7,"organization_name":"Boehm-Schowalter","icon_color":"#4320f3"},
+    {"id":8,"organization_name":"Flatley, Wunsch and Botsford","icon_color":"#4c0c43"},
+    {"id":9,"organization_name":"Volkman-Russel","icon_color":"#ed6e4e"},
+    {"id":10,"organization_name":"Lindgren Inc","icon_color":"#59a9f9"},
+    {"id":11,"organization_name":"Kulas, Schmitt","icon_color":"#e62f40"},
+    {"id":12,"organization_name":"Simonis-Lebsack","icon_color":"#953bc4"},
+    {"id":13,"organization_name":"Bogisich-Keeling","icon_color":"#cae425"},
+    {"id":14,"organization_name":"Rice Inc","icon_color":"#8fe1cf"},
+    {"id":15,"organization_name":"Lebsack Inc","icon_color":"#1295bf"},
+    {"id":16,"organization_name":"Schmidt-Collins","icon_color":"#a18946"},
+    {"id":17,"organization_name":"Monahan, Weimann and Moen","icon_color":"#a6f708"},
+    {"id":18,"organization_name":" O'Reilly","icon_color":"#99c32a"},
+    {"id":19,"organization_name":"Johns-O'Kon","icon_color":"#814bb4"},
+    {"id":20,"organization_name":"Miller-Deckow","icon_color":"#c0a2bc"}
+  ],
+  "threads" : [
+    { 
+      "id": "b22976910f3f4083b4e16c8625baad58",
+      "thread_type": "organization",
+      "organization": {
+          "id": "4",
+          "name": ""
+      },
+      "thread_participants": ["1","4","23"],
+      "thread_messages": [
+          {
+              "created_at": "",
+              "message_owner": {
+                  "name": "",
+                  "id": ""
+              },
+              "message": "Your Welcome"
+          },
+          {
+              "created_at": "",
+              "message_owner": "4",
+              "message": "Your Welcome"
+          }
+      ]
+    },
+    { 
+      "id": "387d9fb27055441b8444127f5f7bf8c6",
+        "thread_type": "personal",
+        "thread_participants": ["1","4"],
+        "thread_messages": [
+            {
+                "created_at": "",
+                "message_owner": {
+                    "name": "",
+                    "id": ""
+                },
+                "message": "Your Welcome"
+            },
+            {
+                "created_at": "",
+                "message_owner": "4",
+                "message": "Your Welcome"
+            }
+        ]
+    },
+    { 
+      "id": "a2a90592c43d41cc9f1a1c8ee6a59bbb",
+        "thread_type": "personal",
+        "thread_participants": ["1","4"],
+        "thread_messages": [
+            {
+                "created_at": "",
+                "message_owner": {
+                    "name": "",
+                    "id": ""
+                },
+                "message": "Your Welcome"
+            },
+            {
+                "created_at": "",
+                "message_owner": "4",
+                "message": "Your Welcome"
+            }
+        ]
+    },
+    { 
+      "id": "c93df4b39c6240f5bce78c12b8ac4c9f",
+      "thread_type": "personal",
+      "thread_participants": ["1","4"],
+      "thread_messages": [
+          {
+              "created_at": "",
+              "message_owner": {
+                  "name": "",
+                  "id": ""
+              },
+              "message": "Your Welcome"
+          },
+          {
+              "created_at": "",
+              "message_owner": "4",
+              "message": "Your Welcome"
+          }
+      ]
+    },
+    { 
+      "id": "893529d091c4496f973f63206f5b37fa",
+        "thread_type": "personal",
+        "thread_participants": ["1","4"],
+        "thread_messages": [
+            {
+                "created_at": "",
+                "message_owner": {
+                    "name": "",
+                    "id": ""
+                },
+                "message": "Your Welcome"
+            },
+            {
+                "created_at": "",
+                "message_owner": "4",
+                "message": "Your Welcome"
+            }
+        ]
+    },
+    {
+      "id": "643bc141b6d94f5eba46d0c8bce5d55d",
+        "thread_type": "personal",
+        "thread_participants": ["1","4"],
+        "thread_messages": [
+            {
+                "created_at": "",
+                "message_owner": {
+                    "name": "",
+                    "id": ""
+                },
+                "message": "Your Welcome"
+            },
+            {
+                "created_at": "",
+                "message_owner": "4",
+                "message": "Your Welcome"
+            }
+        ]
+    },
+    { 
+      "id": "18dafa1ae2564757b6924939e7808ecc",
+      "thread_type": "personal",
+      "thread_participants": ["1","4"],
+      "thread_messages": [
+          {
+              "created_at": "",
+              "message_owner": {
+                  "name": "",
+                  "id": ""
+              },
+              "message": "Your Welcome"
+          },
+          {
+              "created_at": "",
+              "message_owner": "4",
+              "message": "Your Welcome"
+          }
+      ]
+    }
+  ]
+}
