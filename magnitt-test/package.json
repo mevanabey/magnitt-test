@@ -12,7 +12,7 @@
     "lodash": "^4.17.15",
     "lodash.debounce": "^4.0.8",
     "micro-cors": "^0.1.1",
-    "next": "9.1.1",
+    "next": "11.1.0",
     "react": "16.11.0",
     "react-dom": "16.11.0",
     "use-lodash-debounce": "^1.1.0"
